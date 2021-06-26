@@ -60,10 +60,10 @@ You can set the navigation links in `_data/navigation.yml` like so:
 This theme uses [FontAwesome](https://fontawesome.com/) icons by default. In `_data/social.yml` all you have to do is add a link and an icon, like so:
 
 ```
-- link: https://github.com/Aspiring-Writer
+- url: https://github.com/Aspiring-Writer
   icon: fa-github
   
-- link: https://gitlab.com/Aspiring-Writer
+- url: https://gitlab.com/Aspiring-Writer
   icon: fa-gitlab
 ```
 
